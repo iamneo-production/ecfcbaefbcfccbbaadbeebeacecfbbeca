@@ -1,4 +1,4 @@
--- MariaDB dump 10.19  Distrib 10.5.21-MariaDB, for debian-linux-gnu (x86_64)
+-- MariaDB dump 10.19  Distrib 10.5.23-MariaDB, for debian-linux-gnu (x86_64)
 --
 -- Host: localhost    Database: appdb
 -- ------------------------------------------------------
@@ -32,4 +32,4 @@ USE `appdb`;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2024-05-22 13:46:34
+-- Dump completed on 2024-07-03  5:43:53
